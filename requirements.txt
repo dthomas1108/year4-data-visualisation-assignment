@@ -1,0 +1,1 @@
+All the requierments should happen automatically if you run from the start in Jupyter Notebook
