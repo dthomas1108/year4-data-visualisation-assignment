@@ -6,3 +6,5 @@ Run the notebook from top to bottom in Jupyter notebook. The coordinate transfor
 Figures and summary statistics will be generated as the notebook executes.
 
 All file paths and parameters are stored within the project structure.
+
+ALT F "Dash app running on" and click the link
